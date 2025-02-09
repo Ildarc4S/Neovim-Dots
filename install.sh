@@ -18,7 +18,7 @@ install_package neovim
 # Клонирование репозитория dotfiles
 if [ ! -d ~/dotfiles ]; then
   echo "Клонирование репозитория dotfiles..."
-  git clone https://github.com/Ildarc4S/Neovim-dots.git ~/dotfiles
+  git clone https://github.com/Ildarc4S/Neovim-Dots.git ~/dotfiles
 else
   echo "Репозиторий dotfiles уже существует."
 fi
